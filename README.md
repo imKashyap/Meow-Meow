@@ -4,7 +4,7 @@
 * The entire application is inspired from the course of *Stephen Grider* on flutter available on Udemy.
 * Check the app and contact for queries 
 
-##Screenshots:
+## Screenshots:
 
 Until the cat is inside the box, the flaps of the box rotate a little along the axis pivoted at the joining point of the box.
 <img src="screenshots/Screenshot_1" width = 250 alt ="First screenshot of the app when cat is inside">
